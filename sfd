@@ -1,0 +1,10 @@
+Using UnityEngine
+
+public class test:MonoBehaviour
+{
+    int i=0;
+    public void update
+{
+Debug.Log(++i);
+}
+}
